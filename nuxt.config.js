@@ -2,9 +2,9 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
-  router: {
-    base: '/XiangTaiHui-2021/'
-  },
+  // router: {
+  //   base: '/XiangTaiHui-2021/'
+  // },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
