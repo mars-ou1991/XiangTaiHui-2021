@@ -3,7 +3,7 @@ export default {
   target: 'static',
 
   router: {
-    base: '/<repository-name>/'
+    base: '/XiangTaiHui-2021/'
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
