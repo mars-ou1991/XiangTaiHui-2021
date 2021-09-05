@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/home", (function(a){return {data:[{news:[{slug:"test copy",title:"cewewewdd",updatedAt:a},{slug:"test",description:"esewweed",title:"ceshilalalal",updatedAt:a}]}],fetch:{},mutations:void 0}}("2021-09-05T03:46:51.447Z")));
